@@ -11,3 +11,5 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 
 1. **Lex Luthor** - Fundador y estratega principal. Experto en manipulación y control de recursos.
 2. **Joker** - Maestro del caos y la anarquía. Su creatividad no tiene límites.
+3. **Thanos** - Portador del Guantelete del Infinito. Su visión de equilibrio es implacable.
+4. **Magneto** - Líder de los mutantes. Su control sobre el magnetismo es inigualable.
