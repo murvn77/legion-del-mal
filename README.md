@@ -19,7 +19,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📄 nuevas-misiones.yaml    → Estado global de las nuevas misiones
 ```
 
-## El Consejo de Villanos
+## El Concejo de Villanos!!
 
 | Rango                     | Miembro    | Rol                                                     |
 | ------------------------- | ---------- | ------------------------------------------------------- |
