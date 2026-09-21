@@ -1,3 +1,7 @@
+![Estático](https://img.shields.io/badge/Legion--del--Mal-Última--Versión-blue)
+
+![Con logo](https://img.shields.io/badge/Git-2.45-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Workflow](https://img.shields.io/github/actions/workflow/status/murvn77/legion-del-mal/ci.yml)
 ![Release](https://img.shields.io/github/v/release/murvn77/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/murvn77/legion-del-mal)
