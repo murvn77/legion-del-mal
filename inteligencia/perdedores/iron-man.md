@@ -4,7 +4,7 @@
 **Universo:** Marvel
 **Nivel de amenaza:** 🟠 ALTO — Su tecnología es el mayor riesgo para nuestras operaciones digitales
 **Recopilado por:** Brainiac
-
+**Última actualización:** 2025-02-20
 ---
 
 ## Habilidades confirmadas
@@ -15,6 +15,7 @@
 - Armaduras especializadas: Hulkbuster, espacial, submarina, stealth
 - Líder de los Vengadores con acceso a todos sus recursos
 - Sistemas de seguridad Stark protegen infraestructura global (bancos, gobiernos, SHIELD)
+- Experto en ingeniería inversa y hacking (ha hackeado sistemas alienígenas y de inteligencia artificial)
 
 ## Debilidades conocidas
 

@@ -4,7 +4,7 @@
 **Universo:** DC
 **Nivel de amenaza:** 🔴 CRÍTICO — No tiene poderes, pero ha derrotado a más villanos que Superman
 **Recopilado por:** Mystique (infiltrada en el GCPD durante 3 meses)
-
+**Última actualización:** 2025-01-15
 ---
 
 ## Habilidades confirmadas
@@ -15,6 +15,7 @@
 - Arsenal tecnológico comparable al de Iron Man
 - Estratega capaz de derrotar a Superman con preparación
 - Red de aliados: Robin, Batgirl, Nightwing, Alfred, la Liga de la Justicia completa
+- Inteligencia táctica: capaz de anticipar movimientos de enemigos y aliados por igual
 
 ## Debilidades conocidas
 
