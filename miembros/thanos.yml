@@ -1,0 +1,54 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Thanos"
+nombre_real: "Thanos de Titán"
+universo: Marvel
+rango: "Asesor de conquista cósmica"
+estado: activo
+
+perfil:
+  identidad_publica: "Titán Loco. Conquistador de mundos y amenaza de nivel cósmico."
+  motivacion: "Restaurar el equilibrio del universo, cueste lo que cueste. Cree que solo él tiene la voluntad de tomar las decisiones que otros temen."
+  frase_celebre: "Yo soy inevitable."
+
+habilidades:
+  - Fuerza y resistencia sobrehumanas (rivaliza con Hulk y Thor)
+  - Longevidad casi ilimitada y factor de curación eterno
+  - Manipulación de energía cósmica (rayos ópticos y descargas de energía)
+  - Genio científico y tecnológico a nivel universal
+  - Estratega bélico con experiencia en conquistas interplanetarias
+  - Conocimiento experto sobre las Gemas del Infinito
+
+debilidades:
+  - Su arrogancia lo lleva a subestimar a sus enemigos
+  - Su obsesión con la Muerte puede nublar su juicio
+  - Tiende a autosabotearse cuando está cerca de la victoria total
+  - No acepta órdenes fácilmente (choca con el liderazgo de Lex Luthor)
+
+recursos:
+  - La Orden Negra (sus lugartenientes de élite)
+  - Ejército Chitauri y flotas de conquista
+  - Nave insignia Santuario II
+  - Guantelete del Infinito (actualmente sin gemas)
+
+rol_en_la_legion: |
+  Thanos es la amenaza cósmica de la Legión. Cuando un objetivo
+  está fuera de la Tierra, él abre el camino. Sus ejércitos y su
+  experiencia en conquistas planetarias le dan a la Legión un
+  alcance que ningún otro miembro posee. Se unió porque los héroes
+  de ambos universos, unidos, representan un obstáculo incluso
+  para él. "La Legión es solo un medio para un fin."
+
+rivalidad_principal: "Vengadores (especialmente Adam Warlock)"
+guarida_asignada: "Santuario II (órbita terrestre)"
+misiones_completadas: 7
+misiones_fallidas: 3
+
+notas_confidenciales: |
+  Thanos es el miembro más poderoso y el menos controlable.
+  Lex Luthor sospecha que busca usar los recursos de la Legión
+  para localizar las Gemas del Infinito. Darkseid lo ve como
+  un rival directo y la tensión entre ambos es constante.
+  Brainiac monitorea cada uno de sus movimientos por precaución.

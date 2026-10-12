@@ -1,0 +1,54 @@
+# =============================================
+# FICHA DE VILLANO - LEGIÓN DEL MAL
+# =============================================
+
+nombre: "Darkseid"
+nombre_real: "Uxas"
+universo: DC
+rango: "Señor de la guerra"
+estado: activo
+
+perfil:
+  identidad_publica: "Gobernante absoluto de Apokolips. Tirano de nivel cósmico."
+  motivacion: "Encontrar la Ecuación Anti-Vida y someter el libre albedrío de todos los seres del universo a su voluntad."
+  frase_celebre: "Yo no soy un dios. Soy EL dios."
+
+habilidades:
+  - Rayos Omega (desintegran, teletransportan o persiguen a su objetivo)
+  - Fuerza y resistencia que rivalizan con Superman
+  - Inmortalidad como Nuevo Dios
+  - Telepatía y manipulación mental limitada
+  - Estratega y tirano con milenios de experiencia
+  - Control total de las fuerzas de Apokolips
+
+debilidades:
+  - Su obsesión con la Ecuación Anti-Vida lo distrae de otros objetivos
+  - Las Cajas Madre y la tecnología de Nuevo Génesis pueden contrarrestarlo
+  - Desprecia a sus aliados y los considera herramientas desechables
+  - Su rivalidad con Thanos genera conflictos dentro de la Legión
+
+recursos:
+  - Ejército de Parademonios
+  - Los Furiosos Femeninos y la Élite de Apokolips
+  - Tubos de Boom (teletransporte interdimensional)
+  - El planeta Apokolips entero como base de operaciones
+
+rol_en_la_legion: |
+  Darkseid es la fuerza de invasión de la Legión. Sus Tubos de Boom
+  permiten mover tropas entre universos, algo indispensable para
+  una alianza entre villanos de DC y Marvel. Se unió a la Legión
+  porque cree que, al final, todos sus miembros terminarán
+  sirviéndole. "Hoy son aliados. Mañana serán súbditos."
+
+rivalidad_principal: "Liga de la Justicia (especialmente Superman y Orión)"
+guarida_asignada: "Apokolips"
+misiones_completadas: 9
+misiones_fallidas: 4
+
+notas_confidenciales: |
+  Darkseid no reconoce a Lex Luthor como líder; solo tolera el
+  acuerdo mientras le resulte útil. Su rivalidad con Thanos es
+  el mayor riesgo interno de la Legión: ambos quieren dominar el
+  universo y ninguno acepta ser el segundo. Brainiac ha detectado
+  intentos de Darkseid por acceder a su base de datos en busca
+  de pistas sobre la Ecuación Anti-Vida.
