@@ -21,4 +21,3 @@ jobs:
           echo "Repo: ${{ github.repository }}"
           echo "Operación: ${{ github.sha }}"
           echo "Metadata: ${{ toJson(github) }}"
-          |
