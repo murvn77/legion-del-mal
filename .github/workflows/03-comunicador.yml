@@ -14,7 +14,19 @@ on:
           - Darkseid
           - Magneto
 
-
+      mensaje:
+        description: "Mensaje para el concejo"
+        required: true
+        default: "La misión ha sido completada con éxito."
+      
+      prioridad: 
+        description: "Nivel de prioridad"
+        required: true
+        type: choice
+        options:
+          - 🟢 Normal
+          - 🟡 Alta
+          - 🔴 Crítica
 
 jobs:
   build:
