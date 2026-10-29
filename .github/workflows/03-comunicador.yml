@@ -29,14 +29,14 @@ on:
           - 🔴 Crítica
 
 jobs:
-  build:
+  transmitir_mensaje:
     runs-on: ubuntu-latest
 
     steps:
       - name: Imprimir inputs
         run: |
           echo "Inputs: "
-          echo: ""
+          echo ""
           echo "Villano: ${{ inputs.villano }}"
           echo "Prioridad: ${{ inputs.prioridad }}"
           echo "Mensaje: ${{ inputs.mensaje }}"
