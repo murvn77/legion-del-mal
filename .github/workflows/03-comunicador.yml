@@ -18,6 +18,17 @@ on:
         description: "Mensaje para el concejo"
         required: true
         default: "La misión ha sido completada con éxito."
+
+      cow_character:
+        description: "Elige un personaje para el mensaje"
+        required: true
+        type: choice
+        options:
+          - eyes
+          - tux
+          - dragon
+          - ghostbusters
+          - bunny
       
       prioridad: 
         description: "Nivel de prioridad"
@@ -46,7 +57,7 @@ jobs:
           echo ""
           echo "Fecha: $(date -u +"%d/%m/%Y - %H:%M:%S UTC")"
           echo "----- Mensaje -----"
-          cowsay -f eyes "${{ inputs.mensaje }}"
+          cowsay -f "${{ inputs.cow_character }}" "${{ inputs.mensaje }}"
           echo ""
           echo "----- ${{ inputs.prioridad }} -----"
           echo "..."
