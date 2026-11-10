@@ -9,3 +9,7 @@ El objetivo es desarrollar y lanzar un satélite capaz de congelar la ciudad de 
 4. **Activación del pulso de congelación:** Una vez en posición, el satélite emitirá un pulso de congelación que cubrirá toda la ciudad, incapacitando a los héroes y permitiendo que la Legión del Mal tome el control.
 5. **Establecimiento de la base de operaciones:** Con Metrópolis bajo nuestro control, se establecerá una base de operaciones para coordinar futuras misiones y mantener la ciudad bajo nuestra influencia.
 6. **Monitoreo y ajustes:** Se mantendrá un monitoreo constante de la ciudad para asegurar que el satélite funcione correctamente y realizar ajustes según sea necesario para mantener el control.
+
+## Plan de escape
+
+En caso de que el plan de congelar Metrópolis falle, se implementará el Plan de Escape para garantizar la seguridad de los miembros de la Legión del Mal. Este plan incluye la evacuación inmediata de la base de operaciones y el traslado a un refugio seguro en una ubicación desconocida.

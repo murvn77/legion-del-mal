@@ -9,3 +9,7 @@ Estos son los planes de control mental que la Legión del Mal ha desarrollado pa
 3. Diseñar el plan de manipulación: Basándose en el perfil psicológico, desarrollar un plan que utilice técnicas de persuasión, sugestión y manipulación emocional para influir en el comportamiento del objetivo.
 4. Implementar el plan: Ejecutar el plan de manera sutil y gradual, asegurándose de que el objetivo no sospeche de la manipulación.
 5. Monitorear y ajustar: Observar las reacciones del objetivo y realizar ajustes en el plan según sea necesario para mantener el control mental.
+
+## Plan de escape
+
+En caso de que el plan de control mental falle, se implementará un Plan de Escape para garantizar la seguridad de los miembros de la Legión del Mal. Este plan incluye la evacuación inmediata del área y el traslado a un refugio seguro en una ubicación desconocida.
