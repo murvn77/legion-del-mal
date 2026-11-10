@@ -30,3 +30,9 @@ Spiderman es un superhéroe ficticio que aparece en los cómics estadounidenses 
 - Flash Thompson
 - Iron Man (Tony Stark)
 - Ant-Man (Scott Lang)
+
+## Estrategia recomendada
+
+Se recomienda utilizar un enfoque de equipo para enfrentarse a Spiderman, aprovechando sus debilidades y limitaciones. Se sugiere coordinar ataques desde múltiples direcciones y utilizar tecnología avanzada para neutralizar sus habilidades arácnidas. Además, se recomienda recopilar información sobre sus patrones de comportamiento y relaciones personales para anticipar sus movimientos y estrategias.
+
+Además, se sugiere utilizar señuelos y distracciones para desorientar a Spiderman y reducir su capacidad de respuesta. La comunicación constante entre los miembros del equipo es crucial para mantener la coordinación y maximizar la efectividad de los ataques.
