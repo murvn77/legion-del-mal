@@ -37,7 +37,7 @@ jobs:
       - name: Escanear inteligencia sobre héroes
         run: |
           echo "🔍 Escaneando expedientes de héroes..."
-          ls inteligencia/
+          ls inteligencia/perdedores/
           echo "✅ Expedientes verificados."
 
       - name: Reporte final
